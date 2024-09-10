@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'ocratio': Continuation-ratio models for ordinal (probit) responses estimates Use ocratio With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ocratio.ado
+f ocratio.hlp
+f ocrpred.ado
+f ocrpred.hlp
