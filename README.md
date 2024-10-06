@@ -1,6 +1,8 @@
 # ocratio
 Continuation-ratio models for ordinal (probit) responses estimates Use ocratio With STATA 18
 
+https://www.youtube.com/watch?v=_cTvHbhbCLo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
